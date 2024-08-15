@@ -1,0 +1,30 @@
+export const dashboard = <i className = "fa-solid fa-house"></i>
+export const transactions = <i class="fa-regular fa-credit-card"></i>
+export const categories = <i class="fa-solid fa-list"></i>
+export const accounts = <i class="fa-solid fa-wallet"></i>
+export const settings = <i class="fa-solid fa-gear"></i>
+export const logout = <i class="fa-solid fa-right-from-bracket"></i>
+export const trend = <i class="fa-solid fa-money-bill-trend-up"></i>
+export const expenses = <i class="fa-solid fa-money-bill-transfer"></i>
+export const money = <i class="fa-solid fa-arrow-trend-up"></i>
+export const freelance = <i class="fa-solid fa-earth-americas"></i>
+export const stocks = <i class="fa-solid fa-money-bill-trend-up"></i>
+export const bitcoin = <i class="fa-brands fa-bitcoin"></i>
+export const piggy = <i class="fa-solid fa-piggy-bank"></i>
+export const youtube = <i class="fa-brands fa-youtube"></i>
+export const investments = <i class="fa-solid fa-tree"></i>
+export const TV = <i class="fa-regular fa-circle-dot"></i>
+export const card = <i class="fa-brands fa-cc-visa"></i>
+export const users = <i class="fa-solid fa-users-between-lines"></i>
+export const dollar = <i class="fa-solid fa-dollar-sign"></i>
+export const calender = <i class="fa-solid fa-calendar-days"></i>
+export const comment = <i class="fa-regular fa-comment"></i>
+export const plus = <i class="fa-solid fa-plus"></i>
+export const trash = <i class="fa-solid fa-trash"></i>
+export const signout = <i class="fa-solid fa-right-from-bracket"></i>
+export const takeaway = <i class="fa-solid fa-leaf"></i>
+export const clothing = <i class="fa-solid fa-tree"></i>
+export const book = <i class="fa-solid fa-book"></i>
+export const food = <i class="ri-restaurant-line"></i>
+export const medical = <i class="fa-solid fa-stethoscope"></i>
+export const circle = <i class="fa-regular fa-circle-dot"></i>
